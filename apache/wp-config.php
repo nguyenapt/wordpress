@@ -25,13 +25,13 @@ define('MYSQL_SSL_CA', '/etc/ssl/certs/Baltimore_CyberTrust_Root.pem');
 define('DB_NAME', 'wordpress');
 
 /** MySQL database username */
-define('DB_USER', 'mysqldbuser@nguyenngo-mysqldbserver');
+define('DB_USER', 'wordpress@addn-mysql');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'Niteco2017.');
+define('DB_PASSWORD', 'c8ehEsE7acakuTha');
 
 /** MySQL hostname */
-define('DB_HOST', 'nguyenngo-mysqldbserver.mysql.database.azure.com:3306');
+define('DB_HOST', 'addn-mysql.mysql.database.azure.com:3306');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
