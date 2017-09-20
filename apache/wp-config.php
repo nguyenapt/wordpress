@@ -31,7 +31,7 @@ define('DB_USER', 'mysqldbuser@nguyenngo-mysqldbserver');
 define('DB_PASSWORD', 'Niteco2017.');
 
 /** MySQL hostname */
-define('DB_HOST', 'nguyenngo-mysqldbserver.mysql.database.azure.com');
+define('DB_HOST', 'nguyenngo-mysqldbserver.mysql.database.azure.com:3306');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
